@@ -10,13 +10,11 @@ This is made to keep track of my ideas and current progress on my first personal
 
 <img src="https://github.com/user-attachments/assets/ef10c4a9-2a8e-45cf-a7ed-420e63d06247" alt="Alt Text" width="500" height="700">
 
-![unnamed (3)](https://github.com/user-attachments/assets/ef10c4a9-2a8e-45cf-a7ed-420e63d06247)
+<img src="https://github.com/user-attachments/assets/94986dfa-e622-4124-a30b-9484c09e10ce" alt="Alt Text" width="500" height="700">
 
-![unnamed (4)](https://github.com/user-attachments/assets/94986dfa-e622-4124-a30b-9484c09e10ce)
+<img src="https://github.com/user-attachments/assets/01f3d990-6771-4077-bfb4-62266e21377a" alt="Alt Text" width="500" height="700">
 
-![unnamed (5)](https://github.com/user-attachments/assets/01f3d990-6771-4077-bfb4-62266e21377a)
-
-![unnamed (6)](https://github.com/user-attachments/assets/be560c3d-64e8-4519-a918-78701752efbc)
+<img src="https://github.com/user-attachments/assets/be560c3d-64e8-4519-a918-78701752efbc" alt="Alt Text" width="500" height="700">
 
 
 ## Current Concept Art (3D)
