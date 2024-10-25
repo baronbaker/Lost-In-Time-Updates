@@ -8,7 +8,7 @@ This is made to keep track of my ideas and current progress on my first personal
 
 ## Current Concept Art (Paper)
 
-![unnamed (3)](https://github.com/user-attachments/assets/ef10c4a9-2a8e-45cf-a7ed-420e63d06247 =100x20)
+![unnamed (3) | 200x20](https://github.com/user-attachments/assets/ef10c4a9-2a8e-45cf-a7ed-420e63d06247)
 
 ![unnamed (4)](https://github.com/user-attachments/assets/94986dfa-e622-4124-a30b-9484c09e10ce)
 
